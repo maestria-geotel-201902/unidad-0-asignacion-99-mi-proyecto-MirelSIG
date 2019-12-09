@@ -56,3 +56,12 @@ Preguntas de investigación o tema abordado.
 \ldots
 
 # Referencias
+
+```{r}
+library(sf)
+library(tidyverse)
+library(spdep)
+library(lmtest)
+library(tmap)
+library(RColorBrewer)
+
